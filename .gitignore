@@ -6,6 +6,8 @@ Thumbs.db
 .env
 TODO.md
 mongodb.conf
+package-lock.json
+config.env
 
 # Node and related ecosystem
 # ==========================
